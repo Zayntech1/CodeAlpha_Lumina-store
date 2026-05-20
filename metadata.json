@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Store",
+  "description": "A premium, full-stack e-commerce platform with real-time product management, a smooth shopping cart experience, and secure order processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
